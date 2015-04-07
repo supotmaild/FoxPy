@@ -1,0 +1,18 @@
+- FoxPy project
+- 
+- use Foxbase commands and database in Python interpreter console 
+- and Micropython micro embedded system
+- x.clear()
+- x.do('program_file') # we use .py 
+- x.list()
+- x.modify_command('program_file') # or can use x.modi_comm()
+- x.select(number)
+- x.use('file_name')
+
+- and also in Multi Processor Mode
+- FoxPy can ultimate run on Multi Core Processor
+- 
+- ARM Code Club Ratchaburi Thailand
+- 
+- tel 097-162-0960
+- email therithwarich@gmail.com
