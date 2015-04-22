@@ -71,8 +71,8 @@ class fox:
 		f.seek(4)
 		rec = f.read(4)
 		recno = rec[0]+(rec[1]*256)+(rec[2]*256*256)+(rec[3]*256*256*256)
-		f.seek(file_start)
-		print('RECNO')
+		f.seek(file_start+1)
+		print(' RECNO ')
 		for i in range(int(len(field)/4)):
 			print(field[(i*4)],end='')
 			print(' ',end='')
@@ -81,7 +81,9 @@ class fox:
 				print(' ',end='')
 		print('')
 		for j in range(recno):
-			print(str(j).zfill(5),end='')
+			delete = ''.join(map(chr,f.read(1)))
+			print(delete,end='')
+			print(str(j+1).zfill(5),end='')
 			print(' ',end='')
 			for i in range(int(len(field)/4)):
 				if len(field[(i*4)])>field[(i*4)+2]:
