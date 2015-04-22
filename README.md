@@ -1,5 +1,10 @@
 - FoxPy project
 - 
+- How it work
+-
+- Many hours to crack this raw binary of oldies Foxbase database file
+![Hex Editor Nero](https://lh4.googleusercontent.com/-LJKCMzdADyY/VTcwBs4o1cI/AAAAAAAAAK0/dlNyznpgeD8/w582-h331-no/fox_hex.jpg "Free Hex Editor Nero")
+
 - use Foxbase commands and database in Python interpreter console 
 - and Micropython micro embedded system
 - x.clear()
