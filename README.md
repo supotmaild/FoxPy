@@ -10,8 +10,15 @@
 - x.use('file_name')
 
 - and also in Multi Processor Mode
-- FoxPy can ultimate run on Multi Core Processor
 - 
+- FoxPy can ultimate run on Multi Core Processor
+-
+- version 0.0.4 22 April 2015
+- 
+- can use real .dbf file from example fox_samp.dbf
+- can list structure (x.list_struc()) of fields
+- can list record (x.list()) but not sure
+
 - ARM Code Club Ratchaburi Thailand
 - 
 - tel 097-162-0960
