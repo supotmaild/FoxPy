@@ -15,7 +15,7 @@
 -
 - version 0.0.4 22 April 2015 not stable
 - 
-[not stable version of Foxpy 0.0.4](https://lh3.googleusercontent.com/-uFVkEF8fmps/VTcqFgKIQRI/AAAAAAAAAKI/jUXzZMQSlZY/w346-h192/fox1.jpg 'FoxPy 0.0.4')
+[not stable version of Foxpy 0.0.4](https://lh3.googleusercontent.com/-uFVkEF8fmps/VTcqFgKIQRI/AAAAAAAAAKI/jUXzZMQSlZY/w346-h192/fox1.jpg ,'FoxPy 0.0.4')
 - not stable under development
 - can use real .dbf file from example fox_samp.dbf
 - can list structure (x.list_struc()) of fields
